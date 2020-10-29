@@ -23,6 +23,7 @@
         android:background="#FFFFFF"
         android:fontFamily="sans-serif-medium"
         android:text="@string/info"
+        android:padding="10sp"
         android:textColor="#000000"
         android:textSize="30sp"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
